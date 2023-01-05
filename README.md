@@ -1,7 +1,7 @@
 # github-stats
 
-![](https://github.com/mrepol742/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/mrepol742/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/amosayomide05/stat/blob/master/generated/overview.svg)
+![](https://github.com/amosayomide05/stat/blob/master/generated/languages.svg)
 
 Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
@@ -80,7 +80,7 @@ For more information on inaccuracies, see issue
    - To show statistics only for "owned" repositories and not forks with
      contributions, add an environment variable (under the `env` header in the
      [main
-     workflow](https://github.com/mrepol742/github-stats/blob/master/.github/workflows/README.yml))
+     workflow](https://github.com/amosayomide05/stat/blob/master/.github/workflows/README.yml))
      called `EXCLUDE_FORKED_REPOS` with a value of `true`.
 6. Go to the [Actions
    Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run
